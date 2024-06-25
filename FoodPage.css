@@ -1,0 +1,28 @@
+.container{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIOkzUOAR6IcznvOqngdw6yy8EnkXdWg5KlA&s");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    padding: 0%;    
+
+    
+}
+.Shikha{
+    background-color:#f6c56e;
+    width: 100%;
+    border-radius: 5px;
+    
+   
+}
+.Gupta{
+    color: #323f4b;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: px;
+    justify-content: center;
+    
+}
